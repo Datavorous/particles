@@ -7,7 +7,8 @@ Although I used Pygame, the main concept can be used with any library (it doesn'
 ![Demo](https://raw.githubusercontent.com/Datavorous/particles/main/media/Untitled%2028_720p.gif)
 <br>
 ## Example
-Take a look below. This is how you can make it work
+Take a look below. You need to provide these parameters at first.
+It'll be better if you check out the ```particles/main.py``` file
 <br>
 ```python
 myParticles = Particles(
